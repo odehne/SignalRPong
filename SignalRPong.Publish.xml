@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\DSMTemp\SignalR" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="signalr" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="webdeploy" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="False">
+    <file relUrl="Scripts/jquery-1.6.4-vsdoc.js" publishTime="11/07/2011 23:12:50" />
+    <file relUrl="index.aspx" publishTime="11/09/2011 08:57:15" />
+    <file relUrl="bin/Microsoft.Web.Infrastructure.dll" publishTime="11/07/2011 23:12:47" />
+    <file relUrl="Scripts/jquery.signalR.min.js" publishTime="11/07/2011 23:12:51" />
+    <file relUrl="packages.config" publishTime="11/07/2011 23:12:51" />
+    <file relUrl="pong-right.aspx" publishTime="11/10/2011 23:56:32" />
+    <file relUrl="Scripts/pong.left.js" publishTime="11/11/2011 00:08:46" />
+    <file relUrl="Scripts/jquery-1.6.4.js" publishTime="11/07/2011 23:12:50" />
+    <file relUrl="Scripts/jquery-1.6.4.min.js" publishTime="11/07/2011 23:12:50" />
+    <file relUrl="bin/SignalR.dll" publishTime="11/07/2011 23:12:47" />
+    <file relUrl="Scripts/jquery.signalR.js" publishTime="11/07/2011 23:12:51" />
+    <file relUrl="Scripts/Model.touch.js" publishTime="11/11/2011 00:08:36" />
+    <file relUrl="bin/SignalRTest.pdb" publishTime="11/10/2011 21:59:53" />
+    <file relUrl="Web.config" publishTime="11/09/2011 21:32:24" />
+    <file relUrl="Scripts/jquery-1.7.min.js" publishTime="11/08/2011 22:39:24" />
+    <file relUrl="bin/SignalRTest.dll" publishTime="11/10/2011 21:59:53" />
+    <file relUrl="Scripts/pong.right.js" publishTime="11/11/2011 00:00:13" />
+    <file relUrl="Global.asax" publishTime="11/08/2011 17:30:20" />
+    <file relUrl="index-touch.aspx" publishTime="11/09/2011 23:27:51" />
+    <file relUrl="style.css" publishTime="11/10/2011 23:57:52" />
+    <file relUrl="pong-left.aspx" publishTime="11/10/2011 23:52:12" />
+    <file relUrl="Scripts/jquery.touch.js" publishTime="11/09/2011 21:30:05" />
+    <file relUrl="Scripts/Model.js" publishTime="11/09/2011 12:56:27" />
+    <file relUrl="bin/SignalRTest.xml" publishTime="11/10/2011 21:59:53" />
+  </publishProfile>
+  <publishProfile publishUrl="E:\DSMTemp\SignalR" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Scripts/jquery-1.6.4-vsdoc.js" publishTime="11/07/2011 23:12:50" />
+    <file relUrl="Scripts/pong.js" publishTime="11/27/2011 22:10:21" />
+    <file relUrl="bin/Microsoft.Web.Infrastructure.dll" publishTime="11/07/2011 23:12:47" />
+    <file relUrl="Scripts/jquery.signalR.min.js" publishTime="11/07/2011 23:12:51" />
+    <file relUrl="packages.config" publishTime="11/07/2011 23:12:51" />
+    <file relUrl="Scripts/jquery-1.6.4.js" publishTime="11/07/2011 23:12:50" />
+    <file relUrl="Scripts/jquery-1.6.4.min.js" publishTime="11/07/2011 23:12:50" />
+    <file relUrl="bin/SignalR.dll" publishTime="11/07/2011 23:12:47" />
+    <file relUrl="Scripts/jquery.signalR.js" publishTime="11/07/2011 23:12:51" />
+    <file relUrl="bin/SignalRTest.pdb" publishTime="11/27/2011 20:47:50" />
+    <file relUrl="Web.config" publishTime="11/28/2011 09:59:36" />
+    <file relUrl="Scripts/jquery-1.7.min.js" publishTime="11/08/2011 22:39:24" />
+    <file relUrl="bin/SignalRTest.dll" publishTime="11/27/2011 20:47:50" />
+    <file relUrl="Global.asax" publishTime="11/08/2011 17:30:20" />
+    <file relUrl="index.html" publishTime="11/27/2011 21:46:49" />
+    <file relUrl="style.css" publishTime="11/21/2011 22:15:09" />
+    <file relUrl="Scripts/jquery.touch.js" publishTime="11/09/2011 21:30:05" />
+    <file relUrl="bin/SignalRTest.xml" publishTime="11/27/2011 20:47:50" />
+  </publishProfile>
+</publishData>
